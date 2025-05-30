@@ -1,5 +1,4 @@
-# keyPad-NFC-to-ESP32-to-Raspberry_Pi_Pico-Display
-# ESP32 NFC & Keypad Access Control with Node-RED and Raspberry Pi LCD
+# ESP32 NFC & Keypad Access Control with Node-RED and Raspberry Pi LCD Pico-Display
 
 This project implements an **IoT Access Control System** using an **ESP32**, **NFC reader**, and **4x4 Keypad**, with data sent over **MQTT** to **Node-RED** on a **Raspberry Pi**. The access result ("Access Granted" / "Access Denied") is then displayed on an **LCD screen** connected to the Raspberry Pi.
 
